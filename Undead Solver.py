@@ -1,9 +1,5 @@
 import copy
 
-# Han Wang, NetID: hanw7
-# Yisheng Sun, NetID:yisheng4
-# Yao Xiao, NetID: yaoxiao9
-
 # compare two list of same length,
 # if any element of list a is bigger than that of list b in same idx return true
 def lcmp(a, b):
