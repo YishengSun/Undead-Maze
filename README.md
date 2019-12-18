@@ -1,2 +1,2 @@
 # Undead-Maze
-![ad](https://github.com/YishengSun/Undead-Maze/explanation.jpeg)
+![ad](https://github.com/YishengSun/Undead-Maze/Explanation.jpeg)
